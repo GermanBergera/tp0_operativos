@@ -1,0 +1,65 @@
+
+[INFO] 07:33:38:177 Servidor/(3478:3478): Se inicio el server
+[TRACE] 07:33:38:177 Servidor/(3478:3478): Listo para escuchar a mi cliente
+[INFO] 07:33:38:177 Servidor/(3478:3478): Servidor listo para recibir al cliente
+[INFO] 07:33:41:364 Servidor/(3478:3478): Se conecto un cliente!
+[ERROR] 07:33:48:784 Servidor/(3478:3478): el cliente se desconecto. Terminando servidor
+[INFO] 07:34:04:002 Servidor/(3489:3489): Se inicio el server
+[TRACE] 07:34:04:002 Servidor/(3489:3489): Listo para escuchar a mi cliente
+[INFO] 07:34:04:002 Servidor/(3489:3489): Servidor listo para recibir al cliente
+[INFO] 07:34:14:908 Servidor/(3489:3489): Se conecto un cliente!
+[INFO] 07:34:37:157 Servidor/(3489:3489): Me llego el mensaje valor
+[INFO] 07:35:09:889 Servidor/(3489:3489): Me llegaron los siguientes valores:
+
+[INFO] 07:35:09:889 Servidor/(3489:3489): hola
+[INFO] 07:35:09:889 Servidor/(3489:3489): estoy mandando info al server desde el paquete
+[INFO] 07:35:09:889 Servidor/(3489:3489): espero que todo llegue correctamente
+[ERROR] 07:35:09:889 Servidor/(3489:3489): el cliente se desconecto. Terminando servidor
+[INFO] 16:43:55:996 Servidor/(2312:2312): Se inicio el server
+[TRACE] 16:43:55:997 Servidor/(2312:2312): Listo para escuchar a mi cliente
+[INFO] 16:43:55:997 Servidor/(2312:2312): Servidor listo para recibir al cliente
+[INFO] 16:44:10:703 Servidor/(2312:2312): Se conecto un cliente!
+[INFO] 16:44:20:383 Servidor/(2312:2312): Me llego el mensaje valor
+[INFO] 16:44:40:101 Servidor/(2312:2312): Me llegaron los siguientes valores:
+
+[INFO] 16:44:40:101 Servidor/(2312:2312): hola
+[INFO] 16:44:40:101 Servidor/(2312:2312): me estoy comunicando con el server
+[INFO] 16:44:40:101 Servidor/(2312:2312): asd
+[ERROR] 16:44:40:101 Servidor/(2312:2312): el cliente se desconecto. Terminando servidor
+[INFO] 20:22:33:587 Servidor/(2118:2118): Se inicio el server
+[TRACE] 20:22:33:587 Servidor/(2118:2118): Listo para escuchar a mi cliente
+[INFO] 20:22:33:587 Servidor/(2118:2118): Servidor listo para recibir al cliente
+[INFO] 20:22:40:253 Servidor/(2118:2118): Se conecto un cliente!
+[INFO] 20:22:43:963 Servidor/(2118:2118): Me llego el mensaje valor
+[INFO] 20:22:55:369 Servidor/(2118:2118): Me llegaron los siguientes valores:
+
+[INFO] 20:22:55:369 Servidor/(2118:2118): probando paquete
+[ERROR] 20:22:55:369 Servidor/(2118:2118): el cliente se desconecto. Terminando servidor
+[INFO] 20:36:47:690 Servidor/(2244:2244): Se inicio el server
+[TRACE] 20:36:47:690 Servidor/(2244:2244): Listo para escuchar a mi cliente
+[INFO] 20:36:47:690 Servidor/(2244:2244): Servidor listo para recibir al cliente
+[INFO] 20:37:01:876 Servidor/(2244:2244): Se conecto un cliente!
+[INFO] 20:41:27:526 Servidor/(2244:2244): Me llego el mensaje valor
+[INFO] 20:41:27:951 Servidor/(2244:2244): Me llegaron los siguientes valores:
+
+[ERROR] 20:41:27:951 Servidor/(2244:2244): el cliente se desconecto. Terminando servidor
+[TRACE] 20:41:40:227 Servidor/(2477:2477): Se inicio el server
+[TRACE] 20:41:40:227 Servidor/(2477:2477): Listo para escuchar a mi cliente
+[INFO] 20:41:40:227 Servidor/(2477:2477): Servidor listo para recibir al cliente
+[TRACE] 20:59:01:198 Servidor/(2626:2626): Se inicio el server
+[TRACE] 20:59:01:198 Servidor/(2626:2626): Listo para escuchar a mi cliente
+[INFO] 20:59:01:198 Servidor/(2626:2626): Servidor listo para recibir al cliente
+[INFO] 20:59:09:806 Servidor/(2626:2626): Se conecto un cliente!
+[INFO] 20:59:09:806 Servidor/(2626:2626): Me llego el mensaje valor
+[INFO] 20:59:16:887 Servidor/(2626:2626): Me llegaron los siguientes valores:
+
+[INFO] 20:59:16:887 Servidor/(2626:2626): test
+[ERROR] 20:59:16:887 Servidor/(2626:2626): el cliente se desconecto. Terminando servidor
+[TRACE] 23:34:12:606 Servidor/(3216:3216): Se inicio el server
+[TRACE] 23:34:12:607 Servidor/(3216:3216): Listo para escuchar a mi cliente
+[INFO] 23:34:12:607 Servidor/(3216:3216): Servidor listo para recibir al cliente
+[INFO] 23:34:26:931 Servidor/(3216:3216): Se conecto un cliente!
+[INFO] 23:34:26:931 Servidor/(3216:3216): Me llego el mensaje valor
+[INFO] 23:34:33:210 Servidor/(3216:3216): Me llegaron los siguientes valores:
+
+[ERROR] 23:34:33:210 Servidor/(3216:3216): el cliente se desconecto. Terminando servidor
